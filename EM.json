@@ -1,0 +1,33 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/09dd/AF/9854f3e030e8cdd96b9a77dcb5c6c4289d2f6a0c/3.png",
+        "url_png_logo": "https://raw.githubusercontent.com/09dd/AF/9854f3e030e8cdd96b9a77dcb5c6c4289d2f6a0c/3.png",
+        "location": "",
+        "social": {
+            "twitter_handle": "Chilestakepo",
+            "telegram_handle": "Chikestakepo1",
+            "facebook_handle": "ChileStakepo",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "SCL",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "pool10eltx2wej46e62ulmwzm35xfu0azu47yvpjper7gwhncqe74vg6",
+        "1": ""
+      }
+    }
+}
